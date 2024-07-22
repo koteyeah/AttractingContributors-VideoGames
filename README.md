@@ -20,3 +20,4 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - Valorant
 - Suika game
 - monster strike
+- LOL
