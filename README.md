@@ -19,3 +19,4 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - Dota 2
 - Suika game
 - monster strike
+- LOL
