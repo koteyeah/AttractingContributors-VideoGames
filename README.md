@@ -17,4 +17,5 @@ This repository is dedicated to sharing and discussing our favorite video games.
 - undertale
 - escape from tarkov
 - Dota 2
+- Suika game
 - monster strike
